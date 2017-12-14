@@ -134,8 +134,6 @@ override_property += \
 # The default value is Unofficial.
 # You should configure the property according to your ID, ie, replace "Unofficial" with your ID.
 # The property ro.product.model_romer decide your ID on the backend server which statistical data for your device.
-# The default value is Nexus-6P_Unofficial.
-# You should configure the property according to your device and your ID with replace the "Nexus-6P_Unofficial".
 override_property += \
     ro.flyme.romer=Unofficial \
     ro.product.model_romer=Herolte_Unofficial
